@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from datetime import datetime
+from datetime import datetim
 
 # Data klasifikasi dan penanganan sampah laboratorium yang lebih detail
 data_sampah_lab_detail = {
